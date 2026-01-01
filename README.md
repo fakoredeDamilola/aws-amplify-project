@@ -23,3 +23,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+
+# backend account set up
+1. Run `npx ampx sandbox` to start the sandbox environment
+2. Follow the prompts to configure your AWS credentials
+3. The sandbox will automatically bootstrap your AWS account if needed
+4. Once bootstrapped, the sandbox will start and you can deploy your backend resources
