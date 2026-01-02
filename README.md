@@ -26,7 +26,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 
 # backend account set up
-1. Run `npx ampx sandbox` to start the sandbox environment
+1. Run `npx ampx sandbox` to start the sandbox environment which is like a dev environment for you to test your app
 2. Follow the prompts to configure your AWS credentials
 3. The sandbox will automatically bootstrap your AWS account if needed
 4. Once bootstrapped, the sandbox will start and you can deploy your backend resources
